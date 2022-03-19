@@ -1,6 +1,10 @@
 # ReactNativeApi
+Splash Screen 
 ![Screenshot_20220319_143317](https://user-images.githubusercontent.com/90472332/159138235-4ef18e80-9ac8-46fc-856e-c29c2b39f871.png)
+
+Loading... Screen
 ![Screenshot_20220319_143638](https://user-images.githubusercontent.com/90472332/159138289-16ffd42f-3452-4943-91dd-a5acdc0c7ca3.png)
+
 ![Screenshot_20220319_143351](https://user-images.githubusercontent.com/90472332/159138284-3ad96953-df2a-4bc9-9381-c73607f8a27d.png)
 ![Screenshot_20220319_143445](https://user-images.githubusercontent.com/90472332/159138286-ccbbdbda-4a40-4c6a-8110-6949791ece4a.png)
 ![Screenshot_20220319_143601](https://user-images.githubusercontent.com/90472332/159138287-a12f5392-b3ff-4603-811a-e40e8e3d4350.png)
